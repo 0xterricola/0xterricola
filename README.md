@@ -18,6 +18,18 @@ I’m currently exploring and building around:
 
 Many of these projects are experimental and under active development.
 
+## Engineering principles
+
+I generally favor software that advances:
+
+- **Censorship resistance**
+- **Open source and free software**
+- **Privacy**
+- **Security**
+- **Self-custody and user sovereignty**
+
+These principles are influenced by the Ethereum Foundation's **CROPS** framework — Censorship Resistance, Open Source, Privacy, and Security — and applied independently across my own work.
+
 ## Security & development disclosures
 
 Security-sensitive software deserves explicit assumptions and limitations.
