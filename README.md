@@ -2,6 +2,8 @@
 
 Software engineer working at the boundary of software, hardware, cryptography, and decentralized systems.
 
+I love learning, building, and contributing wherever I can be useful. A lot of my work starts with curiosity: finding an interesting system, understanding how it works, identifying something I can improve or build, and learning more through the process. I'm especially drawn to spaces where there is still a lot to discover, experiment with, and contribute to over time.
+
 My background is primarily C++ systems/application development, with additional work across embedded Linux, TypeScript, developer tooling, blockchain infrastructure, self-custody, and hardware-backed signing.
 
 ## Current work
