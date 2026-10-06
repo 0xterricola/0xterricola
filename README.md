@@ -1,6 +1,6 @@
 # 0xterricola
 
-Software engineer working at the boundary of software, hardware, cryptography, and decentralized systems.
+I like building things around systems, hardware, cryptography, and decentralized infrastructure.
 
 I love learning, building, and contributing wherever I can be useful. A lot of my work starts with curiosity: finding an interesting system, understanding how it works, identifying something I can improve or build, and learning more through the process. I'm especially drawn to spaces where there is still a lot to discover, experiment with, and contribute to over time.
 
@@ -41,6 +41,6 @@ My account-wide policies and disclosures are maintained in [`0xterricola/.github
 - [Privacy Principles](https://github.com/0xterricola/.github/blob/main/PRIVACY-PRINCIPLES.md)
 - [AI-Assisted Development](https://github.com/0xterricola/.github/blob/main/AI-ASSISTED-DEVELOPMENT.md)
 
-I use AI-assisted development extensively for implementation, debugging, research, testing, documentation, and review support. AI output is treated as untrusted development input rather than as an independent security review or audit.
+I use AI-assisted development extensively for implementation, debugging, research, testing, documentation, and review support. AI output is treated as input that still needs verification rather than as an independent security review or audit.
 
 Unless explicitly stated otherwise, my projects should not be assumed to have undergone a formal independent security audit.
